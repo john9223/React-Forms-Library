@@ -1,4 +1,3 @@
-// src/FormComponent.jsx
 import React from 'react';
 import { useForm } from 'react-hook-form';
 import './FormComponent.css';
